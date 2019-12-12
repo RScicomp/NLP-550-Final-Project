@@ -1,6 +1,5 @@
 # NLP-550-Final-Project
-LETTTSS GOOOOO
-
+Lets Go!
 Objectives:
 1. Scraping linkedin/twitter - x
 2. Pre-processing ie. Word to Vec, N-Gram models - x
